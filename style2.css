@@ -1,0 +1,39 @@
+body
+{
+ background-color: #FDEDEC;
+}
+
+h1
+{
+ background-color: #E1A39D;
+ text-align: center;
+ color: white;
+ font-size: 50px;
+ padding: 60px;
+}
+
+th
+{
+ border: 20px;
+ background-color: #E1A39D;
+ width: 50%;
+ text-align: center;
+ font-size: 30px;
+ font-weight: bold;
+font-family: monospace;
+ padding: 10px;
+}
+
+td
+{
+ border: 20px;
+ background-color: #F2D0CD;
+ width: 50%;
+ text-align: center;
+ padding: 10px;
+}
+
+td1,td2
+{
+background-color:  #FDEDEC;
+}
